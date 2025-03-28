@@ -35,7 +35,7 @@ export const Numeric = styled.div`
   flex-direction: column;
 `;
 
-export const Line = styled.div`
+export const Row = styled.div`
   display: flex;
 `;
 

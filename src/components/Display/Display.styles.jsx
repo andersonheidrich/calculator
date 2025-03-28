@@ -13,4 +13,5 @@ export const Content = styled.div`
   align-items: center;
   width: 100%;
   font-size: 64px;
+  overflow: hidden;
 `;

@@ -12,8 +12,6 @@ export const Container = styled.div`
 export const Calc = styled.div`
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
-  align-items: center;
   background-color: #1a1a1a;
   width: 360px;
   height: 500px;
